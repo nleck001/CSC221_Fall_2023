@@ -6,4 +6,3 @@ This is the class website where we can work on learning about Computer Science a
 - nleck001@plattsburgh.edu
 - ned@lecky.com
 - www.linkedin.com/in/nedlecky/
-
